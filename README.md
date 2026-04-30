@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince-Jean&theme=tokyonight" width="49%" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Jean&theme=tokyonight&ring=A5C9AD&fire=A5C9AD&currStreakLabel=A5C9AD" width="48.5%" />
 </p>
 
